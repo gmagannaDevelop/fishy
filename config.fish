@@ -1,5 +1,5 @@
 set -g -x fish_greeting ''
-set -g -x fish_greeting 'Welcome to my server!'
+set -g -x fish_greeting 'Hello there :)'
 
 set normal (set_color normal)
 set magenta (set_color magenta)
