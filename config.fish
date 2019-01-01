@@ -30,7 +30,7 @@ function fish_prompt
   set last_status $status
 
   set_color white
-  printf '%s' "λ"
+  printf '%s' "(λx.λy. x)"
   set_color $fish_color_cwd
   printf '%s' " : "
   printf '%s' (prompt_pwd)
@@ -38,7 +38,7 @@ function fish_prompt
 
   printf '%s ' (__fish_git_prompt)
   echo " "
-  printf '%s ' "\$"
+  printf '%s ' "  \$"
 
   set_color normal
 end
