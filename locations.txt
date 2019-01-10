@@ -1,0 +1,4 @@
+
+The directory deepin-terminal is located on ~/.config/deepin/
+
+The directory functions is located on ~/.config/fish
