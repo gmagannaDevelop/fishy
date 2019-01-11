@@ -1,0 +1,11 @@
+
+The file config.fish was renamed:
+  config.fish -> my_config.fish
+
+The new file config.fish is used to correctly set
+the env for miniconda. On my final install, I'll replace
+miniconda3 with a full conda installation, therefore
+that file will change too.
+
+To further read about fish integration with anaconda:
+  https://conda.io/docs/user-guide/install/linux.html
