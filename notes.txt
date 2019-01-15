@@ -9,3 +9,6 @@ that file will change too.
 
 To further read about fish integration with anaconda:
   https://conda.io/docs/user-guide/install/linux.html
+
+I'm not sure what went wrong. I'm modifying this to create 
+an artificial commit and wipe everything, start fresh.
